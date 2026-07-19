@@ -21,10 +21,10 @@ Xây dựng một Pitch Deck dưới dạng trang HTML đơn trang (Single-Page 
 
 ## Out of scope
 - Không xây dựng backend hay kết nối database thực tế (đây là tài liệu trình diễn mô phỏng phục vụ thuyết trình pitching).
-- Không sử dụng các framework nặng (như Next.js hay React build) để đảm bảo tính di động tối đa: người dùng có thể copy file `pitch-deck.html` mở trên bất kỳ máy tính nào tại phòng pitching mà không cần cài Node.js hay chạy server.
+- Không sử dụng các framework nặng (như Next.js hay React build) để đảm bảo tính di động tối đa: người dùng có thể copy file `index.html` mở trên bất kỳ máy tính nào tại phòng pitching mà không cần cài Node.js hay chạy server.
 
 ## Acceptance criteria
-- [ ] File HTML đơn trang (`pitch-deck.html` trong thư mục workspace) được tạo ra với bố cục chuyên nghiệp, hỗ trợ responsive hoàn hảo trên Desktop và Mobile.
+- [ ] File HTML đơn trang (`index.html` trong thư mục workspace) được tạo ra với bố cục chuyên nghiệp, hỗ trợ responsive hoàn hảo trên Desktop và Mobile.
 - [ ] Tích hợp bộ chuyển đổi (Toggle Button) giữa Chế độ Trình chiếu (Pitching Mode với phím mũi tên trái/phải và thanh tiến trình) và Chế độ Cuộn (Scroll Mode).
 - [ ] Đầy đủ 8 phần chuẩn EXE: Problem, Solution, Market, Product, Business Model, Traction, Team, Ask.
 - [ ] Số liệu KPI và quy tắc nghiệp vụ khớp 100% với `PRD.md` (Success rate >85%, Response <12h, Meeting Minutes >90%, 1,000 SV/150 Mentor/30 DN, quy tắc Pending Lock, Auto-unlock 24h, 3-Strike Rule).
